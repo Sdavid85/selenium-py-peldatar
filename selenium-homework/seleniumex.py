@@ -16,8 +16,8 @@ options.add_argument("--disable-gpu")
 
 driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
 
-driver.get("http:\\idokep.hu")
 try:
+    driver.get("http:\\idokep.hu")
     nemletezik = driver.find_by_id("nemletezik")
 except:
     print("An exception occurred")
