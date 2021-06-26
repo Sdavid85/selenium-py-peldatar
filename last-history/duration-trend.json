@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 22,
+  "reportUrl" : "https://Sdavid85.github.io/selenium-py-peldatar/22/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 21,
   "reportUrl" : "https://Sdavid85.github.io/selenium-py-peldatar/21/",
   "reportName" : "Allure Report with history",
